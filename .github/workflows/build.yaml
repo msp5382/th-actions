@@ -27,6 +27,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/tithanayut/th-actions:v1.0.1
+          tags: ghcr.io/msp5382/th-actions:v1.0.1
           cache-from: type=gha
           cache-to: type=gha,mode=max
